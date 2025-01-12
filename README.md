@@ -99,9 +99,9 @@ summer, to capitalize on the highest sales months.
 - Optimize for top products: Maintain or increase stock of popular products like Bikes to ensure sustained sales and profitability.
 
 ### Limitations
-Seasonal Variability: The sales trends may be influenced by seasonal factors, and the analysis does not account for specific external events (e.g., holidays, local events) that may have impacted sales.
-Product Pricing Impact: While pricing is correlated with order quantity, other factors such as customer behavior or competitor pricing are not considered.
-Limited Time Frame: The analysis is based on historical data within a specific period, so future trends may differ.
-Outliers: There is some extreme values that effect our calculations
+- Seasonal Variability: The sales trends may be influenced by seasonal factors, and the analysis does not account for specific external  events (e.g., holidays, local events) that may have impacted sales.                                               
+- Product Pricing Impact: While pricing is correlated with order quantity, other factors such as customer behavior or competitor pricing are not considered.                                                      
+- Limited Time Frame: The analysis is based on historical data within a specific period, so future trends may differ.             
+- Outliers: There is some extreme values that effect our calculations.
 
 
